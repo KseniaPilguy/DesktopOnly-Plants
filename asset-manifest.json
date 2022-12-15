@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.6208a976.css",
-    "main.js": "/static/js/main.ed459f58.js",
-    "static/media/banner2.png": "/static/media/banner2.7b4ee766abc14770d358.png",
-    "static/media/banner1.png": "/static/media/banner1.904f58a262223ae98ced.png",
-    "static/media/tuplans.png": "/static/media/tuplans.171e56af8b93ac3c0bb6.png",
-    "static/media/sansev.png": "/static/media/sansev.ab969ef4e3b66dc3b623.png",
-    "static/media/plants.png": "/static/media/plants.29811ab5cff496c950d1.png",
-    "static/media/vinca.png": "/static/media/vinca.f9ebb89ff4369ec55269.png",
-    "static/media/cane.png": "/static/media/cane.3e59181384e29483c8f6.png",
-    "static/media/ficus.png": "/static/media/ficus.cda79bc951b6ef1a3d90.png",
-    "static/media/idea.png": "/static/media/idea.45d457923e7c5371833f.png",
-    "static/media/gift.png": "/static/media/gift.b5b7707847008f9d001b.png",
-    "static/media/decore.png": "/static/media/decore.0849ab2bcf0300f3df5c.png",
-    "index.html": "/index.html",
-    "main.6208a976.css.map": "/static/css/main.6208a976.css.map",
-    "main.ed459f58.js.map": "/static/js/main.ed459f58.js.map"
+    "main.css": "/DesktopOnly-Plants/static/css/main.6208a976.css",
+    "main.js": "/DesktopOnly-Plants/static/js/main.4039a66a.js",
+    "static/media/banner2.png": "/DesktopOnly-Plants/static/media/banner2.7b4ee766abc14770d358.png",
+    "static/media/banner1.png": "/DesktopOnly-Plants/static/media/banner1.904f58a262223ae98ced.png",
+    "static/media/tuplans.png": "/DesktopOnly-Plants/static/media/tuplans.171e56af8b93ac3c0bb6.png",
+    "static/media/sansev.png": "/DesktopOnly-Plants/static/media/sansev.ab969ef4e3b66dc3b623.png",
+    "static/media/plants.png": "/DesktopOnly-Plants/static/media/plants.29811ab5cff496c950d1.png",
+    "static/media/vinca.png": "/DesktopOnly-Plants/static/media/vinca.f9ebb89ff4369ec55269.png",
+    "static/media/cane.png": "/DesktopOnly-Plants/static/media/cane.3e59181384e29483c8f6.png",
+    "static/media/ficus.png": "/DesktopOnly-Plants/static/media/ficus.cda79bc951b6ef1a3d90.png",
+    "static/media/idea.png": "/DesktopOnly-Plants/static/media/idea.45d457923e7c5371833f.png",
+    "static/media/gift.png": "/DesktopOnly-Plants/static/media/gift.b5b7707847008f9d001b.png",
+    "static/media/decore.png": "/DesktopOnly-Plants/static/media/decore.0849ab2bcf0300f3df5c.png",
+    "index.html": "/DesktopOnly-Plants/index.html",
+    "main.6208a976.css.map": "/DesktopOnly-Plants/static/css/main.6208a976.css.map",
+    "main.4039a66a.js.map": "/DesktopOnly-Plants/static/js/main.4039a66a.js.map"
   },
   "entrypoints": [
     "static/css/main.6208a976.css",
-    "static/js/main.ed459f58.js"
+    "static/js/main.4039a66a.js"
   ]
 }
