@@ -1,0 +1,94 @@
+.collection_container {
+  background-color: rgba(191, 213, 187, .5);
+  position: relative;
+  padding: 160px 0 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  .information_block {
+    position: relative;
+    z-index: 2;
+    max-width: 590px;
+    h3 {
+      font-family: 'Over the Rainbow', cursive;
+      font-size: 40px;
+      line-height: 82px;
+      color: #24331C;
+      margin: 0;
+    }
+    h2 {
+      font-size: 48px;
+      line-height: 58px;
+      color: #000000;
+      margin: 0;
+    }
+    p {
+      font-size: 12px;
+      line-height: 180%;
+      font-style: italic;
+      color: #717171;
+      margin: 20px 0 38px;
+    }
+    a {
+      font-weight: 700;
+      font-size: 20px;
+      line-height: 24px;
+      color: $black;
+      cursor: pointer;
+      position: relative;
+      &::after {
+        content: '';
+        position: absolute;
+        width: 100%;
+        height: 2px;
+        background-color: $black;
+        bottom: -5px;
+        left: 0;
+      }
+    }
+  }
+  .plants_collection_container {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    margin-top: 104px;
+    position: relative;
+    z-index: 2;
+    .plant_collection_item {
+      width: 440px;
+      .image {
+        height: 500px;
+        overflow: hidden;
+        &:hover {
+          cursor: pointer;
+          img {
+            transform: scale(1.1);
+          }
+        }
+        img {
+          width: 100%;
+          transition: transform 0.25s;
+        }
+      }
+      h5 {
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 36px;
+        color: #0B0B0D;
+        margin-top: 10px;
+      }
+    }
+  }
+  .background_icon {
+    position: absolute;
+    z-index: 1;
+    &.right {
+      top: 0;
+      right: 0;
+    }
+    &.left {
+      top: 10%;
+      left: 0;
+    }
+  }
+}

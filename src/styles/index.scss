@@ -1,0 +1,17 @@
+@import "normalize-scss";
+
+@import "_variables";
+
+@import "_main";
+
+body {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  margin: 0;
+}
+
+.plant_application {
+  max-width: 1440px;
+  margin: 0 auto;
+}
